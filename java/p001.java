@@ -7,7 +7,7 @@
  */
 
 
-public final class p001 {//implements EulerSolution {
+public final class p001 {//implements EulerSolution remove {
 	
 	public static void main(String[] args) {
 		System.out.println(new p001().run());
